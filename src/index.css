@@ -3,10 +3,30 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "Dream Avenue";
-  src: url("./fonts/Dream\ Avenue.ttf");
+  font-family: "TT Drugs Trial";
+  src: url("https://db.onlinewebfonts.com/t/16039e0d81e579ca7a246f21cbdd54fd.eot");
+  src: url("https://db.onlinewebfonts.com/t/16039e0d81e579ca7a246f21cbdd54fd.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/16039e0d81e579ca7a246f21cbdd54fd.woff2")
+      format("woff2"),
+    url("https://db.onlinewebfonts.com/t/16039e0d81e579ca7a246f21cbdd54fd.woff")
+      format("woff"),
+    url("https://db.onlinewebfonts.com/t/16039e0d81e579ca7a246f21cbdd54fd.ttf")
+      format("truetype"),
+    url("https://db.onlinewebfonts.com/t/16039e0d81e579ca7a246f21cbdd54fd.svg#TT Drugs Trial")
+      format("svg");
 }
 @font-face {
-  font-family: "TT Drugs Trial";
-  src: url("./fonts/TT\ Drugs\ Trial.ttf");
+  font-family: "Dream Avenue";
+  src: url("https://db.onlinewebfonts.com/t/5da49843f66caf14799662bd12aa55a2.eot");
+  src: url("https://db.onlinewebfonts.com/t/5da49843f66caf14799662bd12aa55a2.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/5da49843f66caf14799662bd12aa55a2.woff2")
+      format("woff2"),
+    url("https://db.onlinewebfonts.com/t/5da49843f66caf14799662bd12aa55a2.woff")
+      format("woff"),
+    url("https://db.onlinewebfonts.com/t/5da49843f66caf14799662bd12aa55a2.ttf")
+      format("truetype"),
+    url("https://db.onlinewebfonts.com/t/5da49843f66caf14799662bd12aa55a2.svg#Dream Avenue")
+      format("svg");
 }
