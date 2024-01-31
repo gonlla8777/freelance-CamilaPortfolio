@@ -36,7 +36,7 @@ const Portfolio = () => {
           </button>
         </div>
 
-        <div className="pl-20">
+        <div className="md:pl-20">
           <Home data={data[language][0]} />
           <MyCanvas data={data[language][0]} />
           <MyTravel data={data[language][0]} />
