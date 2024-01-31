@@ -1,0 +1,50 @@
+{
+  "spanish": [
+    {
+      "profession": "Diseñadora",
+      "professionExpand": "Llevo ocho años pintando. Si bien ser artista es un tira y afloja difícil entre mi soñador interior y mi crítico, he llegado a amar mucho este proceso. No sólo me ha enseñado mucho sobre el mundo, sino también sobre mí misma.",
+      "getTo": "Conoce mi Arte",
+      "myCanvas": "Mis Lienzos",
+      "canvasTitle": "Me especializo en óleo sobre lienzo y conceptos abstractos.",
+      "canvasExpand": "Si bien me formé en diferentes medios, encontré una conexión profunda con las pinturas tradicionales. Me encanta cómo comunica gran parte del creador a la audiencia. Irónicamente, la comunicación parece más fácil en abstracto.",
+      "myTravel": "Mi Viaje",
+      "education": "Educación y residencias de artistas",
+      "educationExpand": [
+        "Programa de Licenciatura en Bellas Artes en Trempleway Academy",
+        "Postgrado en Pintura Abstracta de la Universidad Salguerro",
+        "Artista en Residencia en Salguerro Art Studios",
+        "Artista residente en Crystalshore Creative Retreats"
+      ],
+      "galleries": "Galerías y Exposiciones",
+      "galleriesExpand": [
+        "Galería Sol Salguerro (artista invitado)",
+        "RKND Fine Arts Studio (exposición colectiva)",
+        "Galería de arte Crystalshore (exposición individual)"
+      ]
+    }
+  ],
+  "english": [
+    {
+      "profession": "Designer",
+      "professionExpand": "I've been painting for eight years. While being an artist is a difficult tug-of-war between my inner dreamer and critic, I've grown to love this process a lot. It hasn't just taught me much about the world, but also about myself.",
+      "getTo": "Get to know my art",
+      "myCanvas": "My Canvas",
+      "canvasTitle": "I specialize in oil on canvas and abstract concepts.",
+      "canvasExpand": "While I've been trained in different mediums, I found a deep connection to traditional paintings. I love how it communicates so much of the creator to the audience. Ironically, the communication feels easier in the abstract.",
+      "myTravel": "My Travel",
+      "education": "Education and Artist Residencies",
+      "educationExpand": [
+        "Undergraduate Fine Arts Program at Trempleway Academy",
+        "Post-graduate Degree in Abstract Painting from Salguerro University",
+        "Artist-in-Residence at Salguerro Art Studios",
+        "Artist-in-Residence at Crystalshore Creative Retreats"
+      ],
+      "galleries": "Galleries and Exhibits",
+      "galleriesExpand": [
+        "Salguerro Sun Gallery (guest artist)",
+        "RKND Fine Arts Studio (group show)",
+        "Crystalshore Art Gallery (solo exhibit)"
+      ]
+    }
+  ]
+}
